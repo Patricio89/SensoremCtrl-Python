@@ -1,5 +1,5 @@
 # SensoremCtrl-Python
-Simple script for writing to sensor data to a .csv file.
+Simple script for writing sensor data to a .csv file.
 
 ## Motivation
 Using the SenseHat library set for Python to retrieve temperature, relative humidity and timestamp values and store this into a
