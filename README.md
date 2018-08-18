@@ -36,7 +36,7 @@ Add in extra functionality / retrieve other source of data of your choice using 
 * Junior Software Developer / Student - [Adrian Wieslander](https://github.com/AdrWie/)
 
 ## License
-[Creative Commons Attribution](https://creativecommons.org/licenses/by/2.0/)
+OpenSource
 
 * Intern - Software Developer (Student) CC By [Patricio Morales](https://github.com/Patricio89)
 * Intern - Software Developer (Student) CC By [Adrian Wieslander](https://github.com/AdrWie)
